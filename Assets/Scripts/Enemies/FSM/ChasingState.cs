@@ -3,11 +3,10 @@ using UnityEngine;
 public class ChasingState : EnemyState
 {
     public ChasingState(Enemy enemy, StateMachine stateMachine) : base(enemy, stateMachine) { }
-    
     public override void Enter()
     {
         //Debug.Log("Enemy is Chase");
-        _enemy.SetAnimation("Chasing");
+        _enemy._animator.SetBool("IsRunning", true);
     }
 
     public override void Update()
@@ -19,12 +18,16 @@ public class ChasingState : EnemyState
         }
 
         _enemy.MoveTowardsPlayer();
-        
+        _enemy._animator.SetBool("IsRunning", true);
     }
 
     public override void FixedUpdate() { }
 
-    public override void Exit() { }
+    public override void Exit() 
+    { 
+        _enemy._animator.SetBool("IsRunning", false);
+        _enemy._rb.linearVelocity = Vector2.zero;
+    }
 }
 
 

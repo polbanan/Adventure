@@ -11,9 +11,9 @@ public class Enemy : MonoBehaviour
 
     // Слой врага
     [SerializeField] private LayerMask playerLayer;
-    private Animator _animator;
-    private Rigidbody2D _rb;
-
+    public Animator _animator;
+    public Rigidbody2D _rb { get; private set; }
+    public bool _isRunning_enemy = false;
 
     // FSM
     private StateMachine _stateMachine;
@@ -36,10 +36,6 @@ public class Enemy : MonoBehaviour
         _stateMachine.Initialized(_idleState);
         Debug.Log("Enemy FSM initialized with IdleState");
     }
-    public void SetAnimation(string animationName)
-    {
-        _animator.Play(animationName);
-    }
 
     public bool IsPlayerInDetectionRange()
     {
@@ -60,10 +56,13 @@ public class Enemy : MonoBehaviour
     public void MoveTowardsPlayer()
     {
         GameObject player = GameObject.FindGameObjectWithTag("Player");
-        if (player != null) { 
-        Vector2 direction = (player.transform.position - transform.position).normalized;
+        if (player != null) 
+        { 
+            Vector2 direction = (player.transform.position - transform.position).normalized;
             _rb.linearVelocity = direction * _chaseSpeed;
+            _isRunning_enemy = true;
         }
+        _isRunning_enemy = false;
     }
     void Update()
     {

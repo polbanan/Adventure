@@ -6,11 +6,6 @@ public class MiniGolem : MonoBehaviour
     private Rigidbody2D _rb;
     private Vector2 _movement;
     private Animator _animator;
-    private bool _isRunning = false;
-    public bool IsRunning()
-    {
-        return _isRunning;
-    }
     void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();

@@ -8,7 +8,7 @@ public class AttackingState: EnemyState
     public override void Enter()
     {
         //Debug.Log("Enemy is attacking");
-        _enemy.SetAnimation("Attacking");
+        _enemy._animator.SetTrigger("Hit");
         _lastAttackTime = Time.time - _attackCooldown; 
     }
     public override void Update()

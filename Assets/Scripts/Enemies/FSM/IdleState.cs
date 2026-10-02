@@ -5,8 +5,7 @@ public class IdleState : EnemyState
     public IdleState(Enemy enemy, StateMachine stateMachine) : base(enemy, stateMachine) { }
     public override void Enter()
     {
-        Debug.Log("Enemy is idle");
-        _enemy.SetAnimation("Idle");
+        _enemy._animator.SetBool("IsRunning", false);
     }
     public override void Update()
     {
@@ -15,9 +14,12 @@ public class IdleState : EnemyState
             _stateMachine.ChangeState(new ChasingState(_enemy, _stateMachine));
             return;
         }
-       
+       //_enemy.SetAnimation("Idle");
     }
     public override void FixedUpdate() { }
-    public override void Exit() { }
+    public override void Exit() 
+    {
+       
+    }
 
 }

@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: f900ef82dfa8c124590025387282edc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7529692529203536871
+    second: Meele_Attack_0
+  - first:
+      213: -7922926552325903992
+    second: Meele_Attack_1
+  - first:
+      213: -97027976494034885
+    second: Meele_Attack_2
+  - first:
+      213: 4639205132436455119
+    second: Meele_Attack_3
+  - first:
+      213: 7802469937409294340
+    second: Meele_Attack_4
+  - first:
+      213: -6516078734393736025
+    second: Meele_Attack_5
+  - first:
+      213: 8978020746525867830
+    second: Meele_Attack_6
+  - first:
+      213: 6811336401989591649
+    second: Meele_Attack_7
+  - first:
+      213: -829434106035085895
+    second: Meele_Attack_8
+  - first:
+      213: -5750232728020167174
+    second: Meele_Attack_9
+  - first:
+      213: 6202519885259680410
+    second: Meele_Attack_10
+  - first:
+      213: -9806042886342323
+    second: Meele_Attack_11
+  - first:
+      213: -6833355195277355496
+    second: Meele_Attack_12
+  - first:
+      213: -7458131685022603902
+    second: Meele_Attack_13
+  - first:
+      213: -1344260188216272045
+    second: Meele_Attack_14
+  - first:
+      213: 5314560969571928711
+    second: Meele_Attack_15
+  - first:
+      213: 1039019295495693684
+    second: Meele_Attack_16
+  - first:
+      213: -2555428240805154815
+    second: Meele_Attack_17
+  - first:
+      213: -4112075252776108748
+    second: Meele_Attack_18
+  - first:
+      213: -1425447069678886540
+    second: Meele_Attack_19
+  - first:
+      213: -377871038211757533
+    second: Meele_Attack_20
+  - first:
+      213: 653634358889464182
+    second: Meele_Attack_21
+  - first:
+      213: 6036625147684765649
+    second: Meele_Attack_22
+  - first:
+      213: 2557799683834292548
+    second: Meele_Attack_23
+  - first:
+      213: -5970583483926118252
+    second: Meele_Attack_24
+  - first:
+      213: 2449571470445499721
+    second: Meele_Attack_25
+  - first:
+      213: 6657580435910412714
+    second: Meele_Attack_26
+  - first:
+      213: 5049098612034733994
+    second: Meele_Attack_27
+  - first:
+      213: 23854459960330443
+    second: Meele_Attack_28
+  - first:
+      213: -6041567120315165535
+    second: Meele_Attack_29
+  - first:
+      213: -2356683856649942766
+    second: Meele_Attack_30
+  - first:
+      213: 4426665582819888608
+    second: Meele_Attack_31
+  - first:
+      213: 8926313695704463923
+    second: Meele_Attack_32
+  - first:
+      213: -4495387364736075560
+    second: Meele_Attack_33
+  - first:
+      213: -1411682008824093289
+    second: Meele_Attack_34
+  - first:
+      213: 660957114365354189
+    second: Meele_Attack_35
+  - first:
+      213: 1146304441226531356
+    second: Meele_Attack_36
+  - first:
+      213: 2040619427600122320
+    second: Meele_Attack_37
+  - first:
+      213: 5533800313699639676
+    second: Meele_Attack_38
+  - first:
+      213: 5404926112999833340
+    second: Meele_Attack_39
+  - first:
+      213: -3516877437719530364
+    second: Meele_Attack_40
+  - first:
+      213: -6948810001835250292
+    second: Meele_Attack_41
+  - first:
+      213: -2952972416208074065
+    second: Meele_Attack_42
+  - first:
+      213: 1066044243426292285
+    second: Meele_Attack_43
+  - first:
+      213: 3851104921926224718
+    second: Meele_Attack_44
+  - first:
+      213: 4410936296945379816
+    second: Meele_Attack_45
+  - first:
+      213: 4197897114868569191
+    second: Meele_Attack_46
+  - first:
+      213: 1967706131177924561
+    second: Meele_Attack_47
+  - first:
+      213: 8064213312596370794
+    second: Meele_Attack_48
+  - first:
+      213: 6991359887588534906
+    second: Meele_Attack_49
+  - first:
+      213: 4674696137926411266
+    second: Meele_Attack_50
+  - first:
+      213: -5347147868170509316
+    second: Meele_Attack_51
+  - first:
+      213: 9209402947082828689
+    second: Meele_Attack_52
+  - first:
+      213: -2754672199106604804
+    second: Meele_Attack_53
+  - first:
+      213: -2823544157639605392
+    second: Meele_Attack_54
+  - first:
+      213: -4684655144025775348
+    second: Meele_Attack_55
+  - first:
+      213: 8685505357065881041
+    second: Meele_Attack_56
+  - first:
+      213: -6198673663935369179
+    second: Meele_Attack_57
+  - first:
+      213: 6419632553375954970
+    second: Meele_Attack_58
+  - first:
+      213: -3580256846058886001
+    second: Meele_Attack_59
+  - first:
+      213: 5133753292438935670
+    second: Meele_Attack_60
+  - first:
+      213: 7731362028462411018
+    second: Meele_Attack_61
+  - first:
+      213: -5654201261944194693
+    second: Meele_Attack_62
+  - first:
+      213: 8883072167832545594
+    second: Meele_Attack_63
+  - first:
+      213: -5120194637327379591
+    second: Meele_Attack_64
+  - first:
+      213: 4752049722061908695
+    second: Meele_Attack_65
+  - first:
+      213: 5206575783498572157
+    second: Meele_Attack_66
+  - first:
+      213: -8047431459627995274
+    second: Meele_Attack_67
+  - first:
+      213: -5922190713770454929
+    second: Meele_Attack_68
+  - first:
+      213: -5229677964662863975
+    second: Meele_Attack_69
+  - first:
+      213: 3129458637868962870
+    second: Meele_Attack_70
+  - first:
+      213: 3990961760603967460
+    second: Meele_Attack_71
+  - first:
+      213: 1648213392772728075
+    second: Meele_Attack_72
+  - first:
+      213: -4883361710576714513
+    second: Meele_Attack_73
+  - first:
+      213: 2321403363343009602
+    second: Meele_Attack_74
+  - first:
+      213: -1569091375439218262
+    second: Meele_Attack_75
+  - first:
+      213: 2570539750283109264
+    second: Meele_Attack_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meele_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c19e8e988218790800000000000000
+      internalID: -7529692529203536871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889aa13374c1c0290800000000000000
+      internalID: -7922926552325903992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 106
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305cc7c19947aef0800000000000000
+      internalID: -97027976494034885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce3b070d74c16040800000000000000
+      internalID: 4639205132436455119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 104
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40002fd9111f74c60800000000000000
+      internalID: 7802469937409294340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40cfb2aec3295a0800000000000000
+      internalID: -6516078734393736025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 109
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ff2c62d46589c70800000000000000
+      internalID: 8978020746525867830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162e64e9e5ab68e50800000000000000
+      internalID: 6811336401989591649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5f2933124d74f0800000000000000
+      internalID: -829434106035085895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 109
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55886ccc11330b0800000000000000
+      internalID: -5750232728020167174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a233929f6c31650800000000000000
+      internalID: 6202519885259680410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 109
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d497b19b4792ddff0800000000000000
+      internalID: -9806042886342323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 98
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165c6197ab0b21a0800000000000000
+      internalID: -6833355195277355496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 106
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28564225fb46f7890800000000000000
+      internalID: -7458131685022603902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b5ba32b7a385de0800000000000000
+      internalID: -1344260188216272045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a8d784b0d11c940800000000000000
+      internalID: 5314560969571928711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 104
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4752cc65b865b6e00800000000000000
+      internalID: 1039019295495693684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100bec1ed8b498cd0800000000000000
+      internalID: -2555428240805154815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 109
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dfa942859fee6c0800000000000000
+      internalID: -4112075252776108748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4712ba5417bc73ce0800000000000000
+      internalID: -1425447069678886540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aea74fa4881caf0800000000000000
+      internalID: -377871038211757533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 109
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c89e7cfc221900800000000000000
+      internalID: 653634358889464182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfb0f1a69666c350800000000000000
+      internalID: 6036625147684765649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 98
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ac89b2412f7320800000000000000
+      internalID: 2557799683834292548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49005c274f9342da0800000000000000
+      internalID: -5970583483926118252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945d5d32640aef120800000000000000
+      internalID: 2449571470445499721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9c702122a746c50800000000000000
+      internalID: 6657580435910412714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78f36bf60021640800000000000000
+      internalID: 5049098612034733994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 98
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc88e34418fb45000800000000000000
+      internalID: 23854459960330443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a45fe2b6ba082ca0800000000000000
+      internalID: -6041567120315165535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198b74c4806b4fd0800000000000000
+      internalID: -2356683856649942766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed4d63e4ecae6d30800000000000000
+      internalID: 4426665582819888608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3b2a3303a0eb70800000000000000
+      internalID: 8926313695704463923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d87025620d2d91c0800000000000000
+      internalID: -4495387364736075560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 61
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ea3041b2b86ce0800000000000000
+      internalID: -1411682008824093289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 61
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a38d5ef03c2900800000000000000
+      internalID: 660957114365354189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 61
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1292cfd0dd78ef00800000000000000
+      internalID: 1146304441226531356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 61
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1cdd7ce8cb15c10800000000000000
+      internalID: 2040619427600122320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c712304e0120ccc40800000000000000
+      internalID: 5533800313699639676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe769ac9a7220b40800000000000000
+      internalID: 5404926112999833340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 61
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48434268a9a813fc0800000000000000
+      internalID: -3516877437719530364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 61
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dade4ae1ed09f90800000000000000
+      internalID: -6948810001835250292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_42
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 61
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0464ab3fe407d0800000000000000
+      internalID: -2952972416208074065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_43
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 61
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32364c57995bce00800000000000000
+      internalID: 1066044243426292285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 61
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bcb20c58fd17530800000000000000
+      internalID: 3851104921926224718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e96e42213bc63d30800000000000000
+      internalID: 4410936296945379816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764d06f3f2de14a30800000000000000
+      internalID: 4197897114868569191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7e73b0d42be4b10800000000000000
+      internalID: 1967706131177924561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6568422847d9ef60800000000000000
+      internalID: 8064213312596370794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a21a4a6cc460160800000000000000
+      internalID: 6991359887588534906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048efdae5bdfd040800000000000000
+      internalID: 4674696137926411266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a534285d1bc5b0800000000000000
+      internalID: -5347147868170509316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 13
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bbe46df2f5ecf70800000000000000
+      internalID: 9209402947082828689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05b93da3075c9d0800000000000000
+      internalID: -2754672199106604804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07303446c81c0d8d0800000000000000
+      internalID: -2823544157639605392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03232587f2ccfeb0800000000000000
+      internalID: -4684655144025775348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d50aaeba1d198870800000000000000
+      internalID: 8685505357065881041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 7
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52030960523e9f9a0800000000000000
+      internalID: -6198673663935369179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 13
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18f18c6bcd171950800000000000000
+      internalID: 6419632553375954970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ceff51e5f505ec0800000000000000
+      internalID: -3580256846058886001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 7
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67890507b61ce3740800000000000000
+      internalID: 5133753292438935670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_61
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d02786dc05b4b60800000000000000
+      internalID: 7731362028462411018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_62
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 8
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793045d8ed3881b0800000000000000
+      internalID: -5654201261944194693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_63
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3961d57213074b70800000000000000
+      internalID: 8883072167832545594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_64
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973dd35fa1a61f8b0800000000000000
+      internalID: -5120194637327379591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6e767b0ca2f140800000000000000
+      internalID: 4752049722061908695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_66
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d716597e619714840800000000000000
+      internalID: 5206575783498572157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe19e79b7c15090800000000000000
+      internalID: -8047431459627995274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6058954ce620dda0800000000000000
+      internalID: -5922190713770454929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997059269937c67b0800000000000000
+      internalID: -5229677964662863975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6341571fc021e6b20800000000000000
+      internalID: 3129458637868962870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef87f4839eb26730800000000000000
+      internalID: 3990961760603967460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_72
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05824e1951afd610800000000000000
+      internalID: 1648213392772728075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_73
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb45bb560da3cb0800000000000000
+      internalID: -4883361710576714513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24705744f08473020800000000000000
+      internalID: 2321403363343009602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_75
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f0da15b7793ae0800000000000000
+      internalID: -1569091375439218262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meele_Attack_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09365a898446ca320800000000000000
+      internalID: 2570539750283109264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Meele_Attack_0: -7529692529203536871
+      Meele_Attack_1: -7922926552325903992
+      Meele_Attack_10: 6202519885259680410
+      Meele_Attack_11: -9806042886342323
+      Meele_Attack_12: -6833355195277355496
+      Meele_Attack_13: -7458131685022603902
+      Meele_Attack_14: -1344260188216272045
+      Meele_Attack_15: 5314560969571928711
+      Meele_Attack_16: 1039019295495693684
+      Meele_Attack_17: -2555428240805154815
+      Meele_Attack_18: -4112075252776108748
+      Meele_Attack_19: -1425447069678886540
+      Meele_Attack_2: -97027976494034885
+      Meele_Attack_20: -377871038211757533
+      Meele_Attack_21: 653634358889464182
+      Meele_Attack_22: 6036625147684765649
+      Meele_Attack_23: 2557799683834292548
+      Meele_Attack_24: -5970583483926118252
+      Meele_Attack_25: 2449571470445499721
+      Meele_Attack_26: 6657580435910412714
+      Meele_Attack_27: 5049098612034733994
+      Meele_Attack_28: 23854459960330443
+      Meele_Attack_29: -6041567120315165535
+      Meele_Attack_3: 4639205132436455119
+      Meele_Attack_30: -2356683856649942766
+      Meele_Attack_31: 4426665582819888608
+      Meele_Attack_32: 8926313695704463923
+      Meele_Attack_33: -4495387364736075560
+      Meele_Attack_34: -1411682008824093289
+      Meele_Attack_35: 660957114365354189
+      Meele_Attack_36: 1146304441226531356
+      Meele_Attack_37: 2040619427600122320
+      Meele_Attack_38: 5533800313699639676
+      Meele_Attack_39: 5404926112999833340
+      Meele_Attack_4: 7802469937409294340
+      Meele_Attack_40: -3516877437719530364
+      Meele_Attack_41: -6948810001835250292
+      Meele_Attack_42: -2952972416208074065
+      Meele_Attack_43: 1066044243426292285
+      Meele_Attack_44: 3851104921926224718
+      Meele_Attack_45: 4410936296945379816
+      Meele_Attack_46: 4197897114868569191
+      Meele_Attack_47: 1967706131177924561
+      Meele_Attack_48: 8064213312596370794
+      Meele_Attack_49: 6991359887588534906
+      Meele_Attack_5: -6516078734393736025
+      Meele_Attack_50: 4674696137926411266
+      Meele_Attack_51: -5347147868170509316
+      Meele_Attack_52: 9209402947082828689
+      Meele_Attack_53: -2754672199106604804
+      Meele_Attack_54: -2823544157639605392
+      Meele_Attack_55: -4684655144025775348
+      Meele_Attack_56: 8685505357065881041
+      Meele_Attack_57: -6198673663935369179
+      Meele_Attack_58: 6419632553375954970
+      Meele_Attack_59: -3580256846058886001
+      Meele_Attack_6: 8978020746525867830
+      Meele_Attack_60: 5133753292438935670
+      Meele_Attack_61: 7731362028462411018
+      Meele_Attack_62: -5654201261944194693
+      Meele_Attack_63: 8883072167832545594
+      Meele_Attack_64: -5120194637327379591
+      Meele_Attack_65: 4752049722061908695
+      Meele_Attack_66: 5206575783498572157
+      Meele_Attack_67: -8047431459627995274
+      Meele_Attack_68: -5922190713770454929
+      Meele_Attack_69: -5229677964662863975
+      Meele_Attack_7: 6811336401989591649
+      Meele_Attack_70: 3129458637868962870
+      Meele_Attack_71: 3990961760603967460
+      Meele_Attack_72: 1648213392772728075
+      Meele_Attack_73: -4883361710576714513
+      Meele_Attack_74: 2321403363343009602
+      Meele_Attack_75: -1569091375439218262
+      Meele_Attack_76: 2570539750283109264
+      Meele_Attack_8: -829434106035085895
+      Meele_Attack_9: -5750232728020167174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

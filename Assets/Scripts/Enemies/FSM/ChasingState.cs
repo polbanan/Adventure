@@ -18,7 +18,7 @@ public class ChasingState : EnemyState
         }
 
         _enemy.MoveTowardsPlayer();
-        _enemy._animator.SetBool("IsRunning", true);
+
     }
 
     public override void FixedUpdate() { }

@@ -12695,6 +12695,8 @@ GameObject:
   - component: {fileID: 271989193}
   - component: {fileID: 271989195}
   - component: {fileID: 271989194}
+  - component: {fileID: 271989196}
+  - component: {fileID: 271989197}
   - component: {fileID: 271989190}
   m_Layer: 0
   m_Name: Player
@@ -12780,8 +12782,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.5262272, y: 0.9654484}
-  m_Size: {x: 0.8064107, y: 1.6457095}
+  m_Offset: {x: -0.4937405, y: 0.16140318}
+  m_Size: {x: 1.0013305, y: 1.1096795}
   m_Direction: 0
 --- !u!114 &271989194
 MonoBehaviour:
@@ -12795,7 +12797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad8ced56c71cb5542a575b1f57c6dc73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerConrtoller
-  _speed: 10
+  _speed: 7
 --- !u!114 &271989195
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12808,6 +12810,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08227a16f2e4db84caf46273730730bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerVisual
+--- !u!114 &271989196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 271989187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85e8af08d4a30254aa11272f7b551695, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Player
+  _playerParam: {fileID: 11400000, guid: 412926eed513f6346b72ef3a4cee56ee, type: 2}
+--- !u!114 &271989197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 271989187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35929af9e76b74d43adfcddc72604109, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
+  _playerParam: {fileID: 11400000, guid: 412926eed513f6346b72ef3a4cee56ee, type: 2}
+  attackRadius: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -44002,7 +44031,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.5, y: 1.75}
+  m_Size: {x: 1.5625, y: 1.75}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -46549,9 +46578,9 @@ GameObject:
   - component: {fileID: 1897617614}
   - component: {fileID: 1897617613}
   - component: {fileID: 1897617617}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enemy mini_golem
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46737,9 +46766,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d390847034b5350499ac4021134a6b90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  _enemyParam: {fileID: 11400000, guid: 91b4308fa25c7f24aa8f697ce45aab98, type: 2}
   playerLayer:
     serializedVersion: 2
     m_Bits: 1
+  _animator: {fileID: 1897617613}
+  _isRunning_enemy: 0
 --- !u!1001 &3017098216410378200
 PrefabInstance:
   m_ObjectHideFlags: 0

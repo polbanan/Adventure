@@ -3,11 +3,13 @@ using UnityEngine.Rendering;
 
 public class Enemy : MonoBehaviour
 {
+    [SerializeField] private EnemyParam _enemyParam;
     // Параметры врага
     private float _detectionRange = 2f;
     private float _attackRange = 1f;
     private float _chaseSpeed = 3f;
     private float _idleSpeed = 1f;
+    private int _currentHealth;
 
     // Слой врага
     [SerializeField] private LayerMask playerLayer;
@@ -35,6 +37,7 @@ public class Enemy : MonoBehaviour
         // Инициализируем StateMachine с начальным состоянием
         _stateMachine.Initialized(_idleState);
         Debug.Log("Enemy FSM initialized with IdleState");
+        _currentHealth = _enemyParam.currentHealth;
     }
 
     public bool IsPlayerInDetectionRange()
@@ -64,8 +67,23 @@ public class Enemy : MonoBehaviour
         }
         _isRunning_enemy = false;
     }
+
     void Update()
     {
         _stateMachine.Update();
+    }
+    
+    public void TakeDamage(int damage)
+    {
+        _currentHealth -= damage;
+        Debug.Log($"Enemy took {damage} damage, current health: {_currentHealth}");
+        if (_currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+    private void Die()
+    {
+        Destroy(gameObject);
     }
 }
